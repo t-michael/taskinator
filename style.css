@@ -71,3 +71,20 @@ body {
   .card {
     border: 3px solid black;
   }
+
+footer {
+  background: #343a40;
+  width: 100%;
+  padding: 15px;
+  bottom: 0;
+  text-align: center;
+}
+
+footer a {
+  color: black;
+  font-weight: 600;
+}
+
+footer:hover a {
+  text-decoration: underline;
+}
