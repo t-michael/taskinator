@@ -1,5 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    background: #D3D3D3;
   }
   
   h1,
@@ -65,4 +66,8 @@ body {
   .btn-close:hover, 
   .btn-delete:hover {
     background-position: 1px -50px;
+  }
+
+  .card {
+    border: 3px solid black;
   }
